@@ -1,0 +1,26 @@
+h3
+{
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    font-size: 25px;
+    color: black;
+}
+
+body
+{
+    background-image: url("background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Special Elite', cursive;
+}
+
+#status
+{
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    background-color: skyblue;
+}
